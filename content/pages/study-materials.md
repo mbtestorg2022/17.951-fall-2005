@@ -24,12 +24,129 @@ Your paper should ask a question that can be addressed empirically. You may wish
 
 This section features a cribsheet on the different theories covered in this course.
 
-| THEORIES | WHEN | SUDDEN/GRADUAL | ISSUES |
-| --- | --- | --- | --- |
-| Classic realignment theory | 1932 | Sudden | Varies: war, depression, populists |
-| Issue evolution | 1964 | Gradual | Race |
-| Carmines, McIver, Stimson - Unrealized Independents | 1960s | Gradual - 1960s - 3 factors change | Social welfare, economy, race, Vietnam War |
-| Meffert et al. - Macropartisanship | 1980 | Gradual - permanent (shock, aftershocks) |  |
-| Abramowitz and Saunders | 1980-1994 | Gradual since 1980 - 1994 as culmination | Not race; whole set of issues |
-| Jacobson |  | Mass party alignment: Two-way causality |  |
-| Layman and Carsey |  | Multidimensional; not issue displacement | Race later, not just during 1960s
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+THEORIES
+{{< thclose >}}
+{{< thopen >}}
+WHEN
+{{< thclose >}}
+{{< thopen >}}
+SUDDEN/GRADUAL
+{{< thclose >}}
+{{< thopen >}}
+ISSUES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classic realignment theory
+{{< tdclose >}}
+{{< tdopen >}}
+1932
+{{< tdclose >}}
+{{< tdopen >}}
+Sudden
+{{< tdclose >}}
+{{< tdopen >}}
+Varies: war, depression, populists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Issue evolution
+{{< tdclose >}}
+{{< tdopen >}}
+1964
+{{< tdclose >}}
+{{< tdopen >}}
+Gradual
+{{< tdclose >}}
+{{< tdopen >}}
+Race
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carmines, McIver, Stimson - Unrealized Independents
+{{< tdclose >}}
+{{< tdopen >}}
+1960s
+{{< tdclose >}}
+{{< tdopen >}}
+Gradual - 1960s - 3 factors change
+{{< tdclose >}}
+{{< tdopen >}}
+Social welfare, economy, race, Vietnam War
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Meffert et al. - Macropartisanship
+{{< tdclose >}}
+{{< tdopen >}}
+1980
+{{< tdclose >}}
+{{< tdopen >}}
+Gradual - permanent (shock, aftershocks)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Abramowitz and Saunders
+{{< tdclose >}}
+{{< tdopen >}}
+1980-1994
+{{< tdclose >}}
+{{< tdopen >}}
+Gradual since 1980 - 1994 as culmination
+{{< tdclose >}}
+{{< tdopen >}}
+Not race; whole set of issues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jacobson
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mass party alignment: Two-way causality
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Layman and Carsey
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Multidimensional; not issue displacement
+{{< tdclose >}}
+{{< tdopen >}}
+Race later, not just during 1960s
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
