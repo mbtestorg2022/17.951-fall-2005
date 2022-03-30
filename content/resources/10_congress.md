@@ -4,6 +4,7 @@ description: This resource contains discussion questions related to incumbency a
   challengers, turnout, midterm elections, and democrats.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/cba9ac34236791aab018a6bdf1827811_10_congress.pdf
 file_type: application/pdf
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 10_congress.pdf
 uid: cba9ac34-2367-91aa-b018-a6bdf1827811

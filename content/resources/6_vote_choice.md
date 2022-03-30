@@ -4,6 +4,7 @@ description: This resource contains discussion questions related to different mo
   of vote choice.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-951-special-graduate-topic-in-political-science-political-behavior-fall-2005/bed8a409d7729512073f3ae989949906_6_vote_choice.pdf
 file_type: application/pdf
+parent_uid: 40149e46-aec9-beb2-f5a6-7567352a5d14
 resourcetype: Document
 title: 6_vote_choice.pdf
 uid: bed8a409-d772-9512-073f-3ae989949906
